@@ -1,0 +1,15 @@
+write a blog on the difference between document and window object
+
+1. document object.
+    *the document object are represents by web page and loaded in the browsor.
+    *It can access the element in the HTML page.
+    *The help of document objects, we can add dynamic content to web page.
+    *It is used to for one (eg) of body and it return the contents of the body elements.
+    *It methods for documents is for eg, get element BYld().it retrun the object of the given ID. if no object withe that id exists then it retrun null.
+
+2. windows objects.
+     * The window object is the most top object of DOM hierarchy.
+     * It is represents by a brower window or frame that display the content of the webpage.
+     * It window appears on the screen to display the content of the document and then window object is created.
+     * The properties of window is console:it returns areference to the console object which provides access to the browser debuugging console.
+     * Method of window is blur():it is used to remove focus from the current window.    
